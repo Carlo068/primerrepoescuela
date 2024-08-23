@@ -3,3 +3,4 @@
 - jugar videojuegos
 - ir al gimnasio
 - comer
+- programo aveces
